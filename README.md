@@ -6,6 +6,16 @@ The app uses RxDB and CouchDB for data management, and utilizes Websocket Replic
 
 In conclusion, Mesh allows users to control their own nodes, and easily access, manipulate, and share their data with others. It also enables efficient data synchronization and communication between nodes and users, making it a flexible and powerful tool for a variety of use cases and applications.
 
+dependents:
+- https://github.com/trabur/idea-optimizer
+- https://github.com/trabur/social-optimizer
+- https://github.com/trabur/fleet-optimizer
+
+requirements:
+- https://github.com/trabur/signal
+- https://dashboard.heroku.com
+- https://cloud.hasura.io
+- https://www.pgadmin.org
 
 ## Installation
 
